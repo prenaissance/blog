@@ -1,0 +1,23 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Blowfish"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+[[params.author.links]]
+docker = "https://hub.docker.com/u/prenaissance"
+
+[[params.author.links]]
+github = "https://github.com/prenaissance"
+
+[[params.author.links]]
+linkedin = "https://www.linkedin.com/in/alexandru-andries-x/"
+
+["params.author"]
+name = "prenaissance"
