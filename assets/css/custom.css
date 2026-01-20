@@ -1,0 +1,21 @@
+article {
+  counter-reset: figureCounter;
+}
+
+figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+figure figcaption {
+    text-align: center;
+    margin-top: 0.8rem;
+}
+
+/* Automatically number figures */
+figure figcaption::before {
+  counter-increment: figureCounter;
+  content: "Figure " counter(figureCounter) ": ";
+  font-weight: bold;
+}
