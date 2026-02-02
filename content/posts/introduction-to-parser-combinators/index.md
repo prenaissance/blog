@@ -2,6 +2,7 @@
 date = '2026-01-20T15:57:46+02:00'
 draft = false
 title = 'Introduction to Parser Combinators'
+description = 'This article is part of a series. An introduction to parsing & grammars and a pragmatic guide to building parsers using parser combinators in TypeScript.'
 series = ['Parser Combinators with Typescript']
 series_order = 1
 +++
