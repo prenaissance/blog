@@ -2,16 +2,14 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "prenaissance.dev"
 
 [params]
 displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-
-[[params.author.links]]
-docker = "https://hub.docker.com/u/prenaissance"
+description = "Software Engineering Technical Blog. I post about TypeScript, Rust, Go, C#, and generally-applicable concepts."
 
 [[params.author.links]]
 github = "https://github.com/prenaissance"
@@ -19,5 +17,11 @@ github = "https://github.com/prenaissance"
 [[params.author.links]]
 linkedin = "https://www.linkedin.com/in/alexandru-andries-x/"
 
+[[params.author.links]]
+docker = "https://hub.docker.com/u/prenaissance"
+
 ["params.author"]
 name = "prenaissance"
+image = "gh_avatar.png"
+headline = "Technical Blog"
+bio = "Software Engineer. I code in TypeScript, Rust, Go, C#. "

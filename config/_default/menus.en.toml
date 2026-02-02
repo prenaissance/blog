@@ -2,23 +2,16 @@
 none = "none"
 
 [[main]]
-name = "Blog"
+name = "Posts"
 pageRef = "posts"
 identifier = "posts"
 weight = 10
 
 [[main]]
 pre = "github"
-url = "https://github.com/prenaissance"
+url = "https://github.com/prenaissance/blog"
 identifier = "github"
 weight = 20
 
 [[footer]]
 none = "none"
-
-[[footer]]
-pre = "github"
-name = "Source"
-url = "https://github.com/prenaissance/blog"
-identifier = "source"
-weight = 10
