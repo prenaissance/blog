@@ -4,6 +4,7 @@ draft = false
 title = 'Extending Parser Combinators'
 description = 'This article is part of a series. An exploration of advanced parser combinators with some practical examples in TypeScript.'
 series = ['Parser Combinators with Typescript']
+tags = ['TypeScript', 'Parsing', 'Parser Combinators', 'Functional Programming']
 series_order = 2
 +++
 

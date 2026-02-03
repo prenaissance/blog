@@ -4,6 +4,7 @@ draft = false
 title = 'Implementing a Json Parser via Parser Combinators'
 description = 'This article is part of a series. Implementing a spec-compliant JSON parser using parser combinators in TypeScript.'
 series = ['Parser Combinators with Typescript']
+tags = ['TypeScript', 'Parsing', 'Parser Combinators', 'JSON', 'Functional Programming']
 series_order = 3
 +++
 
